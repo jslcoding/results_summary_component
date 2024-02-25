@@ -17,4 +17,4 @@
 
 # Ignore src tailwindcss files#
 src/
-vscode/
+.vscode/
