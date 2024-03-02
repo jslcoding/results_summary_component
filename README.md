@@ -21,7 +21,7 @@ Users should be able to:
 ![](./images/screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jslcoding/results_summary_component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
