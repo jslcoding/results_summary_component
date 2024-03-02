@@ -544,11 +544,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -559,37 +554,16 @@ video {
   margin-bottom: 0.5rem;
 }
 
-.my-4 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-.my-auto {
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-.my-6 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.my-10 {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-}
-
-.my-28 {
-  margin-top: 7rem;
-  margin-bottom: 7rem;
-}
-
 .mb-20 {
   margin-bottom: 5rem;
 }
 
 .mt-28 {
   margin-top: 7rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
 }
 
 .flex {
@@ -664,6 +638,14 @@ video {
 
 .p-10 {
   padding: 2.5rem;
+}
+
+.p-9 {
+  padding: 2.25rem;
+}
+
+.p-8 {
+  padding: 2rem;
 }
 
 .py-2 {
@@ -849,22 +831,6 @@ button:hover {
   background: linear-gradient(to bottom,hsla(242, 92%, 35%, 0.849),hsl(234, 85%, 45%));
 }
 
-/*
-## Gradients
-
-- Light slate blue (background): hsl(252, 100%, 67%)
-- Light royal blue (background): hsl(241, 81%, 54%)
-
-- Violet blue (circle): hsla(256, 72%, 46%, 1)
-- Persian blue (circle): hsla(241, 72%, 46%, 0)
-
-### Font
-
-- Family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
-- Weights: 500, 700, 800
-
-*/
-
 /*Footer*/
 
 footer a {
@@ -897,17 +863,5 @@ footer a::after {
 
   .lg\:w-2\/5 {
     width: 40%;
-  }
-
-  .lg\:w-full {
-    width: 100%;
-  }
-
-  .lg\:justify-center {
-    justify-content: center;
-  }
-
-  .lg\:align-middle {
-    vertical-align: middle;
   }
 }
