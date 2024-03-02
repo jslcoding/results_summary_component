@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [https://github.com/jslcoding/results_summary_component](https://github.com/jslcoding/results_summary_component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jslcoding.github.io/results_summary_component/](https://jslcoding.github.io/results_summary_component/)
 
 ## My process
 
